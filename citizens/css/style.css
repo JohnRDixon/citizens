@@ -251,8 +251,9 @@ label{
 	display: inline-block;
 }
 
-input{
-	
+#firstname, #lastname, #email, #phone{
+	display: inline-block;
+	width:22%;
 }
 
 #button{
