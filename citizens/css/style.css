@@ -275,15 +275,11 @@ input{
 /*Information Center*/
 
 #intro{
-	min-height: 160px;
-	/*background-image: url('../img/homeimage.jpg');*/
-	/*background-position: right;*/
-	/*background-repeat: no-repeat;*/
+	
 	text-align: center;
 	background-color: #669696;
 	color: #ffffff;
-	margin: 0 auto;
-	padding-top: 20px;
+	padding: 60px;
 }
 
 
