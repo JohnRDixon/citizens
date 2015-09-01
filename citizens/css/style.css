@@ -344,6 +344,8 @@ td{
 #facilities{
 	background-color: #e0efe7;
 	color: #053c62;
+	padding: 10px;
+	margin-bottom: 15px;
 }
 
 /*Internal*/
@@ -370,7 +372,6 @@ td{
 }
 
 #blueribbon{
-	display:inline;
 	float: right;
 }
 
@@ -386,5 +387,6 @@ td{
 }
 
 #sidebyside img{
+	margin-left: 20px;
 	float:right;
 }
