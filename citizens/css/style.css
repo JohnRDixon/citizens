@@ -343,7 +343,7 @@ td{
 	color: #053c62;
 	padding: 10px;
 	margin-bottom: 15px;
-	
+}
 
 /*Internal*/
 
@@ -368,8 +368,11 @@ td{
 	padding:0;
 }
 
-#blueribbon{
+#ribbon{
 	float: right;
+	width: 20%;
+	display: block;
+	
 }
 
 #pagecontent{
@@ -383,7 +386,3 @@ td{
 
 }
 
-#sidebyside img{
-	margin-left: 20px;
-	float:right;
-}
